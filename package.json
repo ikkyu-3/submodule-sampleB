@@ -2,8 +2,9 @@
   "name": "submodule-sampleB",
   "version": "1.0.0",
   "description": "submodule-sampleAで使用するsubmodule",
-  "main": "src/index.ts",
+  "main": "lib/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "jest"
   },
   "repository": {
