@@ -1,6 +1,6 @@
 {
   "name": "submodule-sampleB",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "submodule-sampleAで使用するsubmodule",
   "main": "lib/index.js",
   "scripts": {
