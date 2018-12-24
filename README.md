@@ -1,2 +1,3 @@
 # submodule
-submodule-sampleで使用するsubmodule
+
+[submodule-sample](https://github.com/ikkyu-3/submodule-sample)で使用するsubmodule
