@@ -1,21 +1,21 @@
 {
-  "name": "submodule",
+  "name": "submodule-sampleB",
   "version": "1.0.0",
-  "description": "submodule-sampleでs使用するsubmodule",
+  "description": "submodule-sampleAで使用するsubmodule",
   "main": "src/index.ts",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ikkyu-3/submodule.git"
+    "url": "git+https://github.com/ikkyu-3/submodule-sampleB.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ikkyu-3/submodule/issues"
+    "url": "https://github.com/ikkyu-3/submodule-sampleB/issues"
   },
-  "homepage": "https://github.com/ikkyu-3/submodule#readme",
+  "homepage": "https://github.com/ikkyu-3/submodule-sampleB#readme",
   "devDependencies": {
     "@types/jest": "^23.3.10",
     "husky": "^1.2.1",
