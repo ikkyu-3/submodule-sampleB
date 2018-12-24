@@ -1,4 +1,7 @@
-function submodule(): string {
+export function submodule(): string {
   return "submodule";
 }
-export default submodule;
+
+export function sum(a: number, b: number): number {
+  return a + b;
+}
