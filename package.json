@@ -21,7 +21,7 @@
     "@types/jest": "24.0.13",
     "husky": "2.4.0",
     "jest": "24.8.0",
-    "lint-staged": "8.2.0",
+    "lint-staged": "13.1.0",
     "prettier": "1.18.2",
     "ts-jest": "24.0.2",
     "tslint": "5.17.0",
